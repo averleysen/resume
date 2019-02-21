@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# jazznotes.io
+- project: https://averleysen.github.io
+  role: Founder & Primary Developer
+  duration: 2018 &mdash; Present
+  # url: "#"
+  description: This is a pilot website/blog about topics that interest me that I will build features into
+
+# Springfield Community Outreach Group
+- project: https://averleysen.github.io/resume
+  role: Co-Founder & Organizer
+  duration: 2018 &mdash; Present
+  # url: "#"
+  description: This resume page
