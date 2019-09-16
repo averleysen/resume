@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Anthony Verleysen"
-resume_title:                   "Senior Digital Delivery Analyst"
+resume_title:                   "Digital Business Integration Consultant"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "anthony.verleysen@gmail.com"
